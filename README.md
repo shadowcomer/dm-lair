@@ -20,4 +20,16 @@ If you wish to collaborate, please read through the guidelines located in the wi
 ## Current Development
 Here, we list the current major features that are being developed for the next release.
 
-(Work in progress...)
+- World creation.
+- Campaign creation.
+- Monster sheet.
+- Monster sheet creation.
+- Player sheet.
+- Player sheet creation.
+- NPC file.
+- NPC file creation.
+- Combat event creation.
+- Random name generation.
+- Simple Player's Perspective view.
+- Simple DM's Perspective view.
+- Basic interface.
